@@ -16,7 +16,7 @@ baseurl = "https://Rongtingting.github.io/"
 copyright = "&copy; 2019 Rongting Huang"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-12345678-9"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
