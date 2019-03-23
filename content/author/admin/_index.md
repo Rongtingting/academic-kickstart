@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Rongting Huang"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,23 +9,25 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+#role = "Professor of Artificial Intelligence"
+role = "Master student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Peking University", url = "https://www.pku.edu.cn/" },{name = " Department of Biomedical Informatics", url = "http://bioinfo.bjmu.edu.cn/labweb/"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include bioinformatics, proteomics and Artificial Intelligence."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Bioinformatics",
+  "Proteomics",
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Photography"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -33,20 +35,21 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+#[[education.courses]]
+  #course = "PhD in Artificial Intelligence"
+  #institution = "Stanford University"
+  #year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  #course = "MSc in Biomedical Informatics"
+  course = "Master student in Biomedical Informatics"
+  institution = "School of Basic Medical Sciences, Peking University"
+  year = "2017-present"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BEng in Automation"
+  institution = "Department of Automation, Xiamen University"
+  year = 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -82,6 +85,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a master student at the [School of Basic Medical Sciences](http://sbms.bjmu.edu.cn/), [Peking University](https://www.pku.edu.cn/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I love the Python programming language as well as R.
+
+I :heart: Academic :smile:.
