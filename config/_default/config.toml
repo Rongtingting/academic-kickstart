@@ -13,7 +13,7 @@ baseurl = "https://Rongtingting.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = ""
+copyright = "&copy; 2019 Rongting Huang"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -29,7 +29,7 @@ disqusShortname = ""
 theme = "academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
