@@ -27,18 +27,42 @@ date_format = "Jan 2006"
   description = """
   **_Responsibilities include:_**
 
-  * Analysing
-  * Modelling
-  
-  **_Projects and Contests_**
-   
-  
-  **_Scholarships and Awards_**
-  
-  * balaba
-  * blaba
-    """
+  * Data Analysing
+  * Modelling and Method Proposing
 
+  **_Projects and Contests_**
+  
+  * Exploring the **cross-talk prediction** of Post-translational modification
+  * **Phosphorylation proteomics** exploring  based on mass spectrometry data
+
+
+  **_Scholarships and Awards_**
+
+  * **Merit Student of Peking University** Dec. 2018
+  * **Outstanding voluntary service**  for the 120th anniversary of Peking University Jun. 2018
+
+
+  **_Academic Activities_**
+  
+  *  **[The 10th Multidisciplinary Conference on New ideas and New Technologies](http://sbms.bjmu.edu.cn/xzxx/201619.htm)** 2019.1.16 Health Science Center, Peking University **[Reporter]**
+
+     - [Report](http://www.bjmu.edu.cn/xxdt/201771.htm): Systematic characterization and prediction of post-translational modification cross-talk between proteins
+  * **[The 10th Proteomics Conference of China](http://cnhupo.ittn.com.cn/)** 2018.11.15-17 Guangzhou, China [Delegate]
+  * **[The Bioinformatics and Intelligent Information Processing Conference](http://lab.malab.cn/biip/)**   **[BIIP2018]** 2018.06.15 -17 Tianjin, China [Participant]
+
+
+
+  **_Leisure Activities_**
+  
+  * **Main member of the Association**  May. 2018 -- present
+  
+    - Photography Association of Health Science Center,Peking University
+  
+  
+    """
+  
+  
+  
 [[experience]]
   title = "Undergraduate"
   company = "Xiamen University"
@@ -47,23 +71,35 @@ date_format = "Jan 2006"
   date_start = "2013-08-24"
   date_end = "2017-06-19"
   description = """
-  **_Scholarships and Awards_**
+  **_Scholarships and Main Awards_**
+
+  * **National Scholarship for Undergraduates**,   Ministry of Education Dec. 2016
+  * **National Scholarship for Undergraduates**,   Ministry of Education Dec. 2015 
+  * **National Scholarship for Undergraduates**,   Ministry of Education Dec. 2014
   
-  * **National Scholarship for Undergraduates**, Ministry of Education (Top 1%) Dec.2016
-  * **National Scholarship for Undergraduates**, Ministry of Education (Top 1%) Dec.2015
-  * **National Scholarship for Undergraduates**, Ministry of Education (Top 1%) Dec.2014
-  * **“Wen Qing” Principle's Scholarship**, Top 6 undergraduates per year in XMU   
-  Apr. 2016
-  * **Outstanding graduate**  Jun.2017
-  * **Merit Student of Xiamen University** Dec.201?
+  * **“Wen Qing” Principle's Scholarship**,  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          Xiamen University      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr. 2016
+    - The prize is awarded to the top 6 undergraduates per year in XMU
+  * **Outstanding Individual of Social Practice** Fujian Province, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2014
+  * Delegate of the Chinese and American University Students Delegation to **[the Second World Internet Conference](http://2015.wicwuzhen.cn/)** in Wuzhen, China. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec. 2015
+  * **Outstanding graduate Award of Xiamen University**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2017
+  * **Outstanding Merit Student of Xiamen University**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun. 2017
 
-
+  **_Projects and Contests_**
+  
+  * 2015 National Undergraduate Mathematical Contest in Modeling
+  * 2016 North American College Students Mathematical Modeling Competition
+  * 2016 National College Students Innovation and Entrepreneurship Competition
 
   **_Activities_**
   
-  **_Projects and Contests_**
+  * **Minister of the Practice Department**  Jun. 2015 – May. 2016
   
-  
+    - Student Union of Xiamen University
+  * **Leader of  Social Practice Team** Summer 2014
+
+    - Social Practice Team about Traditional Culture in Quanzhou, Fujian
+
+
   """
 
 +++
