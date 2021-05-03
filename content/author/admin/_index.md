@@ -10,23 +10,24 @@ superuser = true
 
 # Role/position
 #role = "Professor of Artificial Intelligence"
-role = "Master student"
+role = "PhD student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Peking University", url = "https://www.pku.edu.cn/" },{name = " Department of Biomedical Informatics", url = "http://bioinfo.bjmu.edu.cn/labweb/"} ]
+organizations = [ { name = "The University of Hong Kong", url = "https://www.hku.hk/" },{name = "School of Biomedical Sciences", url = "https://www.sbms.hku.hk/"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include bioinformatics, proteomics and Artificial Intelligence."
+bio = "PhD student"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "rthuang@connect.hku.hk"
 
 # List (academic) interests or hobbies
 interests = [
-  "Bioinformatics",
+  "Computational Biology",
+  "Single-Cell Genomics",
   "Proteomics",
-  "Artificial Intelligence",
+  "Machine Learning",
   "Photography"
 ]
 
@@ -59,12 +60,12 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:rthuang@connect.hku.hk"  # For a direct email link, use "mailto:test@example.org".
 
-#[[social]]
-  #icon = "twitter"
-  #icon_pack = "fab"
-  #link = "https://twitter.com/GeorgeCushen"
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/RongtingHuang"
 
 [[social]]
   icon = "google-scholar"
@@ -85,8 +86,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a master student at the [School of Basic Medical Sciences](http://sbms.bjmu.edu.cn/), [Peking University](https://www.pku.edu.cn/). 
+I am a PhD student from [StatBiomed Group](https://web.hku.hk/~yuanhua/) at the [School of Biomedical Sciences](https://www.sbms.hku.hk//), [Li Ka Shing Faculty of Medicine](https://www.med.hku.hk/), [HKU](https://www.hku.hk/).
+
+I :heart: Computational Biology :smile:.
 
 I love the Python programming language as well as R.
-
-I :heart: Academic :smile:.
