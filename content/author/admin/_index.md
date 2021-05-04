@@ -36,16 +36,16 @@ interests = [
 user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
-#[[education.courses]]
-  #course = "PhD in Artificial Intelligence"
-  #institution = "Stanford University"
-  #year = 2012
+[[education.courses]]
+  course = "PhD student in Computational biology"
+  institution = "The University of Hong Kong"
+  year = "2020-present"
 
 [[education.courses]]
   course = "MSc in Biomedical Informatics"
   #course = "Master student in Biomedical Informatics"
   institution = "School of Basic Medical Sciences, Peking University"
-  year = "2017-present"
+  year = "2017-2020"
 
 [[education.courses]]
   course = "BEng in Automation"
@@ -70,7 +70,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=aE-MxvQAAAAJ&hl=en&oi=ao"
+  link = "https://scholar.google.co.uk/citations?user=aE-MxvQAAAAJ"
 
 [[social]]
   icon = "github"
