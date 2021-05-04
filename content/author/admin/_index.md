@@ -45,7 +45,7 @@ user_groups = ["Researchers", "Visitors"]
   course = "MSc in Biomedical Informatics"
   #course = "Master student in Biomedical Informatics"
   institution = "School of Basic Medical Sciences, Peking University"
-  year = "2017-2020"
+  year = 2020
 
 [[education.courses]]
   course = "BEng in Automation"
