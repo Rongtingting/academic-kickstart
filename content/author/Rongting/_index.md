@@ -3,7 +3,7 @@
 name = "Rongting Huang"
 
 # Username (this should match the folder name)
-authors = ["admin"]
+authors = ["Rongting"]
 
 # Is this the primary user of the site?
 superuser = true
@@ -86,8 +86,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a PhD student from [StatBiomed Group](https://web.hku.hk/~yuanhua/) at the [School of Biomedical Sciences](https://www.sbms.hku.hk//), [Li Ka Shing Faculty of Medicine](https://www.med.hku.hk/), [HKU](https://www.hku.hk/).
+I am a PhD student from [StatBiomed Group](https://web.hku.hk/~yuanhua/) at the [School of Biomedical Sciences](https://www.sbms.hku.hk//), [Li Ka Shing Faculty of Medicine](https://www.med.hku.hk/), [The University of Hong Kong](https://www.hku.hk/).
 
 I :heart: Computational Biology :smile:.
 
-I love the Python programming language as well as R.
+<!-- I love the Python programming language as well as R. -->
