@@ -54,7 +54,7 @@ email = "rthuang@connect.hku.hk"
 # phone = "010-82801585" Beijing
 phone = "852-28315093"
 # address = "No.38, Xueyuan Road, Haidian District, Peking University Health Science Center, Beijing 100191, China"
-address = "Rm 1-05E, 1/F, Jockey Club Building for Interdisciplinary Research, 5 Sassoon Road, Pokfulam, Hong Kong School of Biomedical Sciences, LKS Faculty of Medicine, The University of Hong Kong"
+address = "Rm 1-05E, 1/F, Jockey Club Building for Interdisciplinary Research, 5 Sassoon Road, Pokfulam, Hong Kong"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -90,8 +90,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 1
 map_api_key = ""
-latitude = "22.2688° N"
-longitude = "114.1300° E"
+latitude = "22.268973"
+longitude = "114.129965"
 zoom = 15
 
 ############################
