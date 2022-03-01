@@ -34,7 +34,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["PTM crosstalk", "inter-protein","prediction"]
+tags = ["PTM crosstalk", "inter-protein","prediction","Research"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ tags = ["PTM crosstalk", "inter-protein","prediction"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["Machine Learning"]
+projects = ["PTM-X"]
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

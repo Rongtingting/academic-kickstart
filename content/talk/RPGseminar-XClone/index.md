@@ -1,38 +1,37 @@
 +++
-title = "Report_PTM-X_inter"
+title = "RPG seminar: XClone"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2019-01-16T13:00:29+08:00
-date_end = 2019-01-16T18:00:29+08:00
+date = 2022-04-29T17:00:00+08:00
+date_end = 2022-04-29T17:30:00+08:00
 all_day = false
 
 # Schedule page publish date (NOT talk date).
-publishDate = 2019-01-01T01:05:29+08:00
+publishDate = 2022-03-01T10:13:53+08:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rongting Huang"]
 
 # Location of event.
-location = "Peking University"
+location = "Hong Kong"
 
 # Name of event and optional event URL.
-event = "Seminar"
+event = "RPG seminar"
 event_url = ""
 
 # Abstract. What's your talk about?
-abstract = "PTM-X"
+abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "XClone"
 
 # Is this a featured talk? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-
-tags = ["Research", "Proteomics"]
+tags = ["Research", "Single Cell"]
 
 # Markdown Slides (optional).
 #   Associate this page with Markdown slides.
@@ -51,7 +50,7 @@ url_slides = ""
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["PTM-X"]
+projects = ["XClone"]
 
 # Links (optional).
 url_pdf = ""
@@ -67,5 +66,4 @@ url_code = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-
 +++
