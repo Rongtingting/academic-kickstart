@@ -63,9 +63,9 @@ user_groups = ["Researchers", "Visitors"]
   link = "mailto:rthuang@connect.hku.hk"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
+  icon = "github"
   icon_pack = "fab"
-  link = "https://twitter.com/RongtingHuang"
+  link = "https://github.com/Rongtingting"
 
 [[social]]
   icon = "google-scholar"
@@ -73,9 +73,25 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://scholar.google.co.uk/citations?user=aE-MxvQAAAAJ"
 
 [[social]]
-  icon = "github"
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0002-3079-4724"
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/Rongting-Huang"
+
+[[social]]
+  icon = "twitter"
   icon_pack = "fab"
-  link = "https://github.com/Rongtingting"
+  link = "https://twitter.com/RongtingHuang"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fabs"
+  link = "https://www.linkedin.com/in/rongting-huang-502ab0131/"
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

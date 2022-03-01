@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
-subtitle = ""
+subtitle = "A little bit more."
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,6 +17,8 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
   title = "PhD Student"
   company = "The University of Hong Kong"
@@ -27,7 +29,26 @@ date_format = "Jan 2006"
   description = """
   **_Responsibilities include:_**
   
-    """
+  * Statistical Modelling and Method Proposing
+  * Single cell Data Analysing
+
+
+  **_Projects and Contests_**
+
+  * XClone
+
+
+  **_Scholarships and Awards_**
+
+  * UPF
+
+
+  **_Academic Activities_**
+
+  **_Leisure Activities_**
+
+  """
+
 [[experience]]
   title = "Master Student"
   company = "Peking University"
@@ -48,6 +69,11 @@ date_format = "Jan 2006"
 
 
   **_Scholarships and Awards_**
+
+  * **National Scholarship for Postgraduates** Dec. 2019
+
+  * **Outstanding graduate of Beijing** Jun. 2020
+  * **Outstanding graduate of Peking University** Jun. 2020
 
   * **Merit Student of Peking University** Dec. 2018
   * **Outstanding voluntary service**  for the 120th anniversary of Peking University Jun. 2018
