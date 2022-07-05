@@ -27,7 +27,7 @@ url_code = ""
 url_dataset = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://iscb.junolive.co/Nucleus/library/search/ismb2022_poster_506"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
