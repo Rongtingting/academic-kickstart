@@ -3,6 +3,7 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
 [[main]]
   name = "Home"
   url = "#Biography"
@@ -10,43 +11,70 @@
 
 
 [[main]]
+  name = "Research"
+  identifier = "Research"
+  weight = 20
+
+[[main]]
   name = "Projects"
   url = "/project/"
-  weight = 20
+  parent = "Research"
+  weight = 1
+
 
 [[main]]
   name = "Publications"
   url = "#featured_publications"
-  weight = 30
+  parent = "Research"
+  weight = 2
+
+[[main]]
+  name = "Reading"
+  url = "https://rongtingting.github.io/ReadingNotes/"
+  parent = "Research"
+  weight = 3
+
 
 [[main]]
   name = "Tutorials"
   url = "/tutorial/"
   weight = 40
 
-[[main]]
-  name = "Reading"
-  url = "https://rongtingting.github.io/ReadingNotes/"
-  weight = 45
 
 [[main]]
   name = "Posts"
   url = "/post/"
   weight = 50
 
+
 [[main]]
   name = "RT Life"
   url = "/Life/"
   weight = 60
 
+
+[[main]]
+  name = "More"
+  identifier = "More"
+  weight = 80
+
+[[main]]
+    name = "Gallery"
+    url = "#gallery"
+    parent = "More"
+    weight = 1
+
+
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  parent = "More"
+  weight = 2
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+    name = "CV"
+    url = "files/CV_RongtingHuang_202502.pdf"
+    parent = "More"
+    weight = 3
