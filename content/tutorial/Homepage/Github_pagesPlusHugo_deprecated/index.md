@@ -1,6 +1,6 @@
 +++
-title = "Github_pages & Hugo & Academic theme"
-subtitle = ""
+title = "Homepages & Hugo & Academic theme (deprecated version)"
+subtitle = "My academic homepage building log (deprecated)"
 
 # Add a summary to display on homepage (optional).
 summary = "Build my Github Pages by Hugo based on the theme of Academic."
@@ -38,6 +38,8 @@ categories = ["Study Record"]
   focal_point = ""
 
 +++
+
+Please refer to [Rongting Homepage Setup Guide]({{< relref "tutorial/Homepage/Github_pagesPlusHugo" >}})
 
 # Introduction
 做了许多尝试，但是最后发现，安装好**hugo_v53+**之后，只要按照[**Deployment**](https://sourcethemes.com/academic/docs/deployment/)一步一步来就可以。

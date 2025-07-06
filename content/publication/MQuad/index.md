@@ -3,7 +3,7 @@ title = "MQuad enables clonal substructure discovery using single cell mitochond
 date = 2022-03-01T10:02:07+08:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Aaron Wing Cheung Kwok", "Chen Qiao", "**Rongting Huang**", "Mai-Har Sham", "Joshua W. K. Ho", "Yuanhua Huang"]
+authors = ["Kwok, Aaron Wing Cheung", "Qiao, Chen",  "**Huang, Rongting**", "Sham, Mai-Har", "Ho, Joshua WK", "Huang, Yuanhua"]
 
 # Publication type.
 # Legend:

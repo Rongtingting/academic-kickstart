@@ -39,3 +39,5 @@ featured = true
 一些刻在”基因“里的选择，远比人本身能想象的还要更主动。主动”清醒“的力量也藏在漫长的岁月里，在那些你愿意去做，觉得有意义的桩桩件件里。
 
 夏天，虫鸣鸟叫，安静，有风，**更懂自己**，这还不错。
+
+{{< figure src="/img/RT_Life/Summer_0621.jpg" title="Point Cabrillo Light Station State Historic Park" >}}
