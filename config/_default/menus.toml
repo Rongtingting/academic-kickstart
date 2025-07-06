@@ -5,27 +5,33 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#Biography"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
 
 [[main]]
   name = "Projects"
-  url = "#projects"
-  weight = 30
+  url = "/project/"
+  weight = 20
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 40
+  url = "#featured_publications"
+  weight = 30
 
 [[main]]
   name = "Tutorials"
   url = "/tutorial/"
+  weight = 40
+
+[[main]]
+  name = "Reading"
+  url = "https://rongtingting.github.io/ReadingNotes/"
+  weight = 45
+
+[[main]]
+  name = "Posts"
+  url = "/post/"
   weight = 50
 
 [[main]]

@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Robust analysis of allele-specific copy number alterations from scRNA-seq data with XClone."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -23,7 +23,7 @@ external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/single-cell-genetics/XClone"
 url_dataset = ""
 url_slides = ""
 url_video = ""

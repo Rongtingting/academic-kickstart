@@ -1,9 +1,9 @@
 +++
-title = "MQuad"
+title = "MQuad enables clonal substructure discovery using single cell mitochondrial variants"
 date = 2022-03-01T10:02:07+08:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["Aaron Wing Cheung Kwok", "Chen Qiao", "**Rongting Huang**", "Mai-Har Sham", "Joshua W. K. Ho", "Yuanhua Huang"]
 
 # Publication type.
 # Legend:
@@ -14,27 +14,27 @@ authors = []
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "_Nature Communications_"
+publication_short = "Nat. Commun."
 
 # Abstract.
-abstract = ""
+abstract = "Mitochondrial mutations are increasingly recognised as informative endogenous genetic markers that can be used to reconstruct cellular clonal structure using single-cell RNA or DNA sequencing data. However, identifying informative mtDNA variants in noisy and sparse single-cell sequencing data is still challenging with few computation methods available. Here we present an open source computational tool MQuad that accurately calls clonally informative mtDNA variants in a population of single cells, and an analysis suite for complete clonality inference, based on single cell RNA, DNA or ATAC sequencing data. Through a variety of simulated and experimental single cell sequencing data, we showed that MQuad can identify mitochondrial variants with both high sensitivity and specificity, outperforming existing methods by a large extent. Furthermore, we demonstrate its wide applicability in different single cell sequencing protocols, particularly in complementing single-nucleotide and copy-number variations to extract finer clonal resolution."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "MQuad: Mixture Model for Mitochondrial Mutation detection in single-cell omics data"
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1038/s41467-022-28845-0"
 
 # Is this a featured publication? (true/false)
 featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Research", "Single Cell"]
+tags = ["Research", "Single Cell", "Genomics"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ tags = ["Research", "Single Cell"]
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["MQuad"]
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -55,7 +55,7 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = ""
+url_code = "https://github.com/single-cell-genetics/MQuad"
 url_dataset = ""
 url_project = ""
 url_slides = ""
