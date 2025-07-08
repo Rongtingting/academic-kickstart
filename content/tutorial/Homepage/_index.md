@@ -1,5 +1,5 @@
 +++
-title = "Tutorial for Happy learning"
+title = "Tutorial for Home pages"
 
 # View.
 #   1 = List

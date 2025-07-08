@@ -107,7 +107,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a joint Postdoctoral Fellow at Stanford University ([Brooke Howitt Lab]((https://med.stanford.edu/brookehowittlab.html))) and Beth Israel Deaconess Medical Center ([Sizun Jiang Lab](https://sizunjianglab.com/)), specializing in single-cell genomics, cancer research, and spatial biology.
+I am a joint Postdoctoral Fellow at Stanford University ([Brooke Howitt Lab](https://med.stanford.edu/brookehowittlab.html)) and Beth Israel Deaconess Medical Center ([Sizun Jiang Lab](https://sizunjianglab.com/)), specializing in single-cell genomics, cancer research, and spatial biology.
 
 🎓 I earned my Ph.D. at [The University of Hong Kong (HKU)](https://www.hku.hk/), where I worked in the [StatBiomed Group](https://statbiomed.github.io/) under the supervision of [Dr. Yuanhua Huang](https://www.sbms.hku.hk/staff/yuanhua-huang). My doctoral research focused on developing statistical methods to detect allele-specific somatic copy number variations from single-cell and spatial transcriptomic data, with the aim of elucidating genetic diversity in complex biological systems.
 
